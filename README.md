@@ -3,7 +3,6 @@
 Transform your photos into anime-style avatars with smooth edges, vibrant colors, and soft shading transitions!
 This project uses OpenCV and Matplotlib to cartoonize real-life images, inspired by traditional anime art styles.
 
-<p align="center"> <img src="demo/demo_result.png" width="80%" alt="Anime Avatar Example"/> </p>
 ✨ Features
 
 ✅ Load any image and process it into anime-style output
@@ -62,10 +61,10 @@ Display Images → Side-by-side comparison with Matplotlib
 🖼️ Example
 
 Input Image:
-<img src="demo/input.png" width="40%"/>
+<img src="input.jpg" width="40%"/>
 
 Output Anime Avatar:
-<img src="demo/output.png" width="40%"/>
+<img src="output.png" width="40%"/>
 
 🌟 Possible Future Enhancements
 
