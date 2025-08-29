@@ -20,18 +20,16 @@ OpenCV – Image processing & transformations
 NumPy – Numerical operations on arrays
 
 Matplotlib – Visualization of original & processed images
-
-📦 Installation
+## 📦 Installation
 
 Clone the repository:
-
+```bash
 git clone https://github.com/Sanjuu2004/AI-Anime-Avatar-Generator.git
-cd anime-avatar-generator
+cd AI-Anime-Avatar-Generator
 
-
-Install dependencies:
 
 pip install numpy opencv-python matplotlib
+
 
 🚀 Usage
 
