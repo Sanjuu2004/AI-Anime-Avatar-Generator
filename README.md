@@ -58,15 +58,13 @@ Bilateral Filtering → vibrant color enhancement
 
 Display Images → Side-by-side comparison with Matplotlib
 
-🖼️ Example:
+## 🖼️ Example
 
-Input Image:
-<img src="input.jpg" width="40%"/>
+<p align="center">
+  <img src="input.jpg" width="40%" alt="Input Image"/>
+  <img src="output.png" width="40%" alt="Output Anime Avatar"/>
+</p>
 
-
-
-Output Anime Avatar:
-<img src="output.png" width="40%"/>
 
 🌟 Possible Future Enhancements
 
