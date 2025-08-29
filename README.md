@@ -26,7 +26,7 @@ Matplotlib – Visualization of original & processed images
 
 Clone the repository:
 
-git clone https://github.com/Sanjuu2004/anime-avatar-generator.git
+git clone https://github.com/Sanjuu2004/AI-Anime-Avatar-Generator.git
 cd anime-avatar-generator
 
 
@@ -95,22 +95,4 @@ Image not displaying → Check image path & supported formats (PNG, JPG)
 
 Slow processing → Resize high-resolution images before applying effects
 
-📜 License
 
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute it with attribution.
-
-🤝 Contributing
-
-Contributions, ideas, and feature requests are welcome!
-
-Fork the repo
-
-Create a new branch (feature/my-feature)
-
-Commit changes and open a Pull Request 🚀
-
-⭐ Show Your Support
-
-If you like this project, star 🌟 the repository
- to help others discover it!
