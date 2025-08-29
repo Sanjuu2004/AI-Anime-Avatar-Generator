@@ -1,21 +1,8 @@
-Perfect 🚀 I’ll now give you the **final polished README.md** with:  
-- ✅ Fixed **installation section**  
-- ✅ Clean **example image alignment (table style)**  
-- ✅ Polished headings, emojis, and formatting for GitHub  
 
-Here’s the full updated file 👇  
-
----
-
-```markdown
 # 🎨 AI Anime Avatar Generator  
 
 Transform your photos into **anime-style avatars** with smooth edges, vibrant colors, and soft shading transitions!  
 This project uses **OpenCV** and **Matplotlib** to cartoonize real-life images, inspired by traditional anime art styles.  
-
-<p align="center">  
-  <img src="demo/demo_result.png" width="80%" alt="Anime Avatar Example"/>  
-</p>  
 
 ---
 
