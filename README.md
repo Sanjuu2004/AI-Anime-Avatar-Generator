@@ -1,5 +1,5 @@
 
-# 🎨 AI Anime Avatar Generator  
+#  AI Anime Avatar Generator  
 
 Transform your photos into **anime-style avatars** with smooth edges, vibrant colors, and soft shading transitions!  
 This project uses **OpenCV** and **Matplotlib** to cartoonize real-life images, inspired by traditional anime art styles.  
