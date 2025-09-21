@@ -86,13 +86,7 @@ pip install numpy opencv-python matplotlib
 
 ---
 
-## 🐛 Troubleshooting  
 
-- **No module named 'cv2'** → Run `pip install opencv-python`  
-- **Image not displaying** → Check image path & supported formats (PNG, JPG)  
-- **Slow processing** → Resize high-resolution images before applying effects  
-
----
 
 
 
